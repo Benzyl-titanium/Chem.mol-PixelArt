@@ -4,8 +4,7 @@ Powered by [RDKit](https://github.com/rdkit/rdkit)
 
 ## Image to mol
 
-- White background with monochrome image
-- Black background with white image
+- white area does not display mol
 
 ## Demo
 
