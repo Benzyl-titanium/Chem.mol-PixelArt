@@ -5,6 +5,7 @@ Powered by [RDKit](https://github.com/rdkit/rdkit)
 ## Image to mol
 
 - white area does not display mol
+- only one colour supported
 
 ## Demo
 
